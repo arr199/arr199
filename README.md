@@ -1,7 +1,7 @@
   <h1> Hello there 🖐️</h1> 
   I'm a front-end developer who loves turning designs into interactive websites. I am passionate about continuous learning and exploring new concepts and skills. I'm 
   open to collaborating with other developers. Please feel free to reach out if you're interested in working together or have any questions or ideas to discuss.
-  email: abieledelso@gmail.com
+  #### email: abieledelso@gmail.com ####
   
   <h2> My Tech Stack ⚒️ </h2>
   
