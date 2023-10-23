@@ -14,7 +14,7 @@
   - [NodeJs](https://nodejs.org/en) - A JavaScript runtime environment.
   - [Valtio](https://valtio.pmnd.rs/) - A state management library.
   - [Framer-Motion](https://www.framer.com/motion/) - A JavaScript animation library.
-  - [FireBase](https://firebase.google.com/) - A cloud platform offering various backend services for web and mobile applications.
+  - [Firebase](https://firebase.google.com/) - A cloud platform offering various backend services for web and mobile applications.
   - [Cypress](https://www.cypress.io/) - An automation web testing tool that's fast, easy, and reliable.
   - [Vite](https://vitejs.dev/) - A build tool that focuses on fast development and performance optimization for JavaScript applications. 
 
