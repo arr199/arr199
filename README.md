@@ -2,9 +2,9 @@
   I'm a front-end developer who loves turning designs into interactive websites. I am passionate about continuous learning and exploring new concepts and skills.
   
   <h2> My Tech Stack </h2>
-  - [JavaScript]() - The language that powers the World Wide Web.
-  - [TypeScript]() - It's like JavaScript on steroids.
-  - [React]() - A popular JavaScript library for building user interfaces.
+  - [JavaScript](https://nodejs.org/en) - The language that powers the World Wide Web.
+  - [TypeScript](https://nodejs.org/en) - It's like JavaScript on steroids.
+  - [React](https://nodejs.org/en) - A popular JavaScript library for building user interfaces.
   - [React-Router]() - A library that lets us handle client and server-side routing in React applications
   - [HTML]() - The standard markup language for creating web pages.
   - [CSS]() - Allows you to create great-looking web pages.
