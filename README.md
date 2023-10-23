@@ -1,7 +1,7 @@
   <h1> Hello there 🖐️</h1> 
   I'm a front-end developer who loves turning designs into interactive websites. I am passionate about continuous learning and exploring new concepts and skills.
   
-  <h2> My Tech Stack </h2>
+  <h2> My Tech Stack ⚒️ </h2>
   
   - [JavaScript](https://www.javascript.com/) - The language that powers the World Wide Web. 
   - [TypeScript](https://www.typescriptlang.org/) - It's like JavaScript on steroids.
