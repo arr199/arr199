@@ -3,19 +3,19 @@
   
   <h2> My Tech Stack </h2>
   
-  - [JavaScript](https://nodejs.org/en) - The language that powers the World Wide Web. 
-  - [TypeScript](https://nodejs.org/en) - It's like JavaScript on steroids.
-  - [React](https://nodejs.org/en) - A popular JavaScript library for building user interfaces.
-  - [React-Router]() - A library that lets us handle client and server-side routing in React applications
-  - [HTML]() - The standard markup language for creating web pages.
-  - [CSS]() - Allows you to create great-looking web pages.
-  - [Tailwind]() - A utility-first CSS framework for rapidly building user interfaces.
-  - [NodeJs]() - A JavaScript runtime environment.
-  - [Valtio]() - A state management library.
-  - [Framer-Motion]() - A JavaScript animation library.
-  - [FireBase]() - A cloud platform offering various backend services for web and mobile applications.
-  - [Cypress] - An automation web testing tool that's fast, easy, and reliable.
-  - [Vite]() - A build tool that focuses on fast development and performance optimization for JavaScript applications.
+  - [JavaScript](https://www.javascript.com/) - The language that powers the World Wide Web. 
+  - [TypeScript](https://www.typescriptlang.org/) - It's like JavaScript on steroids.
+  - [React](https://react.dev/) - A popular JavaScript library for building user interfaces.
+  - [React-Router](https://reactrouter.com/en/main) - A library that lets us handle client and server-side routing in React applications
+  - [HTML](https://www.w3schools.com/html/) - The standard markup language for creating web pages.
+  - [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - Allows you to create great-looking web pages.
+  - [Tailwind](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building user interfaces.
+  - [NodeJs](https://nodejs.org/en) - A JavaScript runtime environment.
+  - [Valtio](https://valtio.pmnd.rs/) - A state management library.
+  - [Framer-Motion](https://www.framer.com/motion/) - A JavaScript animation library.
+  - [FireBase](https://firebase.google.com/) - A cloud platform offering various backend services for web and mobile applications.
+  - [Cypress](https://www.cypress.io/) - An automation web testing tool that's fast, easy, and reliable.
+  - [Vite](https://vitejs.dev/) - A build tool that focuses on fast development and performance optimization for JavaScript applications.
 
 
  
