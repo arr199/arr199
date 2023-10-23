@@ -2,7 +2,7 @@
   I'm a front-end developer who loves turning designs into interactive websites. I am passionate about continuous learning and exploring new concepts and skills.
   
   <h2> My Tech Stack ⚒️ </h2>
-  
+  ###
   - [JavaScript](https://www.javascript.com/) - The language that powers the World Wide Web. 
   - [TypeScript](https://www.typescriptlang.org/) - It's like JavaScript on steroids.
   - [React](https://react.dev/) - A popular JavaScript library for building user interfaces.
@@ -15,12 +15,5 @@
   - [Framer-Motion](https://www.framer.com/motion/) - A JavaScript animation library.
   - [FireBase](https://firebase.google.com/) - A cloud platform offering various backend services for web and mobile applications.
   - [Cypress](https://www.cypress.io/) - An automation web testing tool that's fast, easy, and reliable.
-  - [Vite](https://vitejs.dev/) - A build tool that focuses on fast development and performance optimization for JavaScript applications.
-
-
- 
-
-  - [React-Projects](https://github.com/stars/arr199/lists/react)
-  - [JavaScript-Projects](https://github.com/stars/arr199/lists/javascript)
-    
+  - [Vite](https://vitejs.dev/) - A build tool that focuses on fast development and performance optimization for JavaScript applications. ###
 
