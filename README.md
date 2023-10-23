@@ -3,7 +3,7 @@
   
   <h2> My Tech Stack </h2>
   
-  - [JavaScript](https://nodejs.org/en) 
+  - [JavaScript](https://nodejs.org/en) - The language that powers the World Wide Web. 
   - [TypeScript](https://nodejs.org/en) - It's like JavaScript on steroids.
   - [React](https://nodejs.org/en) - A popular JavaScript library for building user interfaces.
   - [React-Router]() - A library that lets us handle client and server-side routing in React applications
