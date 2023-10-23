@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
   - [React-Projects](https://github.com/stars/arr199/lists/react)
-  - [JavaScriptProjects](https://github.com/stars/arr199/lists/javascript)
+  - [JavaScript-Projects](https://github.com/stars/arr199/lists/javascript)
     
 
