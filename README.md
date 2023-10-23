@@ -2,6 +2,7 @@
   I'm a front-end developer who loves turning designs into interactive websites. I am passionate about continuous learning and exploring new concepts and skills.
   
   <h2> My Tech Stack </h2>
+  
   - [JavaScript](https://nodejs.org/en) 
   - [TypeScript](https://nodejs.org/en) - It's like JavaScript on steroids.
   - [React](https://nodejs.org/en) - A popular JavaScript library for building user interfaces.
