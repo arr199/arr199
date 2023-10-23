@@ -1,8 +1,9 @@
   <h1> Hello there 🖐️</h1> 
-  I'm a front-end developer who loves turning designs into interactive websites. I am passionate about continuous learning and exploring new concepts and skills.
+  I'm a front-end developer who loves turning designs into interactive websites. I am passionate about continuous learning and exploring new concepts and skills. I'm 
+  open to collaborating with other developers. Please feel free to reach out if you're interested in working together or have any questions or ideas to discuss.
   
   <h2> My Tech Stack ⚒️ </h2>
-  ###
+
   - [JavaScript](https://www.javascript.com/) - The language that powers the World Wide Web. 
   - [TypeScript](https://www.typescriptlang.org/) - It's like JavaScript on steroids.
   - [React](https://react.dev/) - A popular JavaScript library for building user interfaces.
@@ -15,5 +16,5 @@
   - [Framer-Motion](https://www.framer.com/motion/) - A JavaScript animation library.
   - [FireBase](https://firebase.google.com/) - A cloud platform offering various backend services for web and mobile applications.
   - [Cypress](https://www.cypress.io/) - An automation web testing tool that's fast, easy, and reliable.
-  - [Vite](https://vitejs.dev/) - A build tool that focuses on fast development and performance optimization for JavaScript applications. ###
+  - [Vite](https://vitejs.dev/) - A build tool that focuses on fast development and performance optimization for JavaScript applications. 
 
