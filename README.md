@@ -14,6 +14,7 @@
   - [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - Allows you to create great-looking web pages.
   - [Tailwind](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building user interfaces.
   - [NodeJs](https://nodejs.org/en) - A JavaScript runtime environment.
+  - [Express](https://expressjs.com/) - A web framework for Node.js.
   - [Valtio](https://valtio.pmnd.rs/) - A state management library.
   - [Framer-Motion](https://www.framer.com/motion/) - A JavaScript animation library.
   - [Firebase](https://firebase.google.com/) - A cloud platform offering various backend services for web and mobile applications.
