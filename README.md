@@ -8,6 +8,7 @@
   
   - [JavaScript](https://www.javascript.com/) - The language that powers the World Wide Web. 
   - [TypeScript](https://www.typescriptlang.org/) - It's like JavaScript on steroids.
+  - [NextJS](https://nextjs.org/) - The React Framework for the Web.
   - [React](https://react.dev/) - A popular JavaScript library for building user interfaces.
   - [React-Router](https://reactrouter.com/en/main) - A library that lets us handle client and server-side routing in React applications
   - [HTML](https://www.w3schools.com/html/) - The standard markup language for creating web pages.
