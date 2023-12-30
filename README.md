@@ -23,4 +23,4 @@
   - [Vite](https://vitejs.dev/) - A build tool that focuses on fast development and performance optimization for JavaScript applications.
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arr199&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arr199&theme=dark#gh-dark-mode-only&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffflabs&theme=dark#gh-dark-mode-only&layout=compact)](https://github.com/arr199/github-readme-stats)
