@@ -22,5 +22,5 @@
   - [Cypress](https://www.cypress.io/) - An automation web testing tool that's fast, easy, and reliable.
   - [Vite](https://vitejs.dev/) - A build tool that focuses on fast development and performance optimization for JavaScript applications.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arr199&theme=dark#gh-dark-mode-only&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arr199&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arr199&theme=dark#gh-dark-mode-only&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
