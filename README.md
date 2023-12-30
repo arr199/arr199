@@ -23,3 +23,4 @@
   - [Vite](https://vitejs.dev/) - A build tool that focuses on fast development and performance optimization for JavaScript applications.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arr199&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arr199&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
