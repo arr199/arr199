@@ -20,4 +20,4 @@
   - [Framer-Motion](https://www.framer.com/motion/) - A JavaScript animation library.
   - [Firebase](https://firebase.google.com/) - A cloud platform offering various backend services for web and mobile applications.
   - [Cypress](https://www.cypress.io/) - An automation web testing tool that's fast, easy, and reliable.
-  - [Vite](https://vitejs.dev/) - A build tool that focuses on fast development and performance optimization for JavaScript applications.
+
