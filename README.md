@@ -16,7 +16,7 @@
   - [Tailwind](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building user interfaces.
   - [NodeJs](https://nodejs.org/en) - A JavaScript runtime environment.
   - [Express](https://expressjs.com/) - A web framework for Node.js.
-  - [Valtio](https://valtio.pmnd.rs/) - A state management library.
+  - [Zustand](https://zustand-demo.pmnd.rs/) - A state management library.
   - [Framer-Motion](https://www.framer.com/motion/) - A JavaScript animation library.
   - [Firebase](https://firebase.google.com/) - A cloud platform offering various backend services for web and mobile applications.
   - [Cypress](https://www.cypress.io/) - An automation web testing tool that's fast, easy, and reliable.
