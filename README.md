@@ -8,6 +8,8 @@
   
   - [JavaScript](https://www.javascript.com/) - The language that powers the World Wide Web. 
   - [TypeScript](https://www.typescriptlang.org/) - It's like JavaScript on steroids.
+  - [Dart](https://dart.dev/) - An approachable, portable, and productive language for high-quality apps on any platform.
+  - [Flutter](https://flutter.dev/) - A framework for building beautiful, natively compiled, multi-platform applications from a single codebase.
   - [NextJS](https://nextjs.org/) - The React Framework for the Web.
   - [React](https://react.dev/) - A popular JavaScript library for building user interfaces.
   - [React-Router](https://reactrouter.com/en/main) - A library that lets us handle client and server-side routing in React applications
