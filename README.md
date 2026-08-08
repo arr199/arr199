@@ -14,6 +14,6 @@
   - [Dart](https://dart.dev/) - An approachable, portable, and productive language for high-quality apps on any platform.
   - [Flutter](https://flutter.dev/) - A framework for building beautiful, natively compiled, multi-platform applications from a single codebase.
   - [NextJS](https://nextjs.org/) - The React Framework for the Web.
-  - [.Net](https://dotnet.microsoft.com/en-us/) A free, open-source, cross-platform framework for building modern apps and powerful cloud services.
+  - [.Net](https://dotnet.microsoft.com/en-us/) - A free, open-source, cross-platform framework for building modern apps and powerful cloud services.
   - [React](https://react.dev/) - A popular JavaScript library for building user interfaces.
   - [NodeJs](https://nodejs.org/en) - A JavaScript runtime environment.
